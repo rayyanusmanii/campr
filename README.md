@@ -3,7 +3,7 @@
 **Campr** is a social camping web app designed to help users plan, book, and share camping experiences. 
 It features a functional prototype with a demo login page and location-based planning tools.  
 
-![Screenshot](frontend/campr_screenshot.png)  
+![Screenshot](/camprss.png)  
 *Feel free to check out the project [here](#)*  
 
 ---
