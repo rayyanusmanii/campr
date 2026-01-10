@@ -4,7 +4,8 @@
 It features a functional prototype with a demo login page and location-based planning tools.  
 
 ![Screenshot](/camprss.png)  
-*Feel free to check out the project [here](#)*  
+Feel free to check out the project [here](https://devpost.com/software/campr-j67ues)
+
 
 ---
 
